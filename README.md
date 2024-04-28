@@ -10,6 +10,8 @@ Documentation: https://www.typescriptlang.org/docs/
 
 Handbook: https://www.typescriptlang.org/docs/handbook/
 
+Playground: https://www.typescriptlang.org/es/play/
+
 ## TypeScript for beginners by freeCodeCamp
 
 Video: https://youtu.be/JHEB7RhJG1Y
