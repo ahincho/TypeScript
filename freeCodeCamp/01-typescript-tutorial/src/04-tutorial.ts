@@ -78,3 +78,4 @@ const deepWork: RealBook = {
   genre: 'Self help'
 }
 console.log(deepWork);
+export { };
