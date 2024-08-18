@@ -5,7 +5,7 @@ class Vehicle {
   }
 }
 const vehicle = new Vehicle('Orange');
-class Car extends Vehicle {´
+class Car extends Vehicle {
   constructor(public wheels: number, color: string) {
     super(color);
   }
