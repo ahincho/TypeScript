@@ -7,3 +7,7 @@ Here I will upload TypeScript courses, articles and documentation that I have us
 Video: https://youtu.be/JHEB7RhJG1Y
 
 Source Code: https://github.com/john-smilga/typescript-course
+
+## TypeScript Course by Stephen Grider
+
+Course: https://www.udemy.com/course/nestjs-the-complete-developers-guide
