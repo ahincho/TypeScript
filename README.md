@@ -2,11 +2,9 @@
 
 Here I will upload TypeScript courses, articles and documentation that I have used to learn it
 
-## TypeScript for beginners by freeCodeCamp
+## TypeScript for Beginners by freeCodeCamp
 
-Video: https://youtu.be/JHEB7RhJG1Y
-
-Source Code: https://github.com/john-smilga/typescript-course
+Video: https://youtu.be/SpwzRDUQ1GI
 
 ## TypeScript Course by Stephen Grider
 
